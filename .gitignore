@@ -1,0 +1,15 @@
+# Pythonのコンパイル済みキャッシュ
+__pycache__/
+*.py[cod]
+
+# 仮想環境フォルダ（もし作成している場合）
+venv/
+env/
+.env
+
+# IDEの設定ファイル（VS CodeやPyCharmなど）
+.vscode/
+.idea/
+
+# Macのシステムファイル
+.DS_Store
